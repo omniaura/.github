@@ -2,11 +2,22 @@
 ## Projects In Development
 ### Ditto
 
-Ditto is our friendly AI assistant
+Ditto is our friendly LLM assistant
 
 Try now: [assistant.heyditto.ai](https://assistant.heyditto.ai/#/)
 
 [Ditto Github Org](https://github.com/ditto-assistant/)
+
+### Agentflow
+
+Generate your LLM & RAG codebase
+
+Repositories:
+
+- [main](https://github.com/omniaura/agentflow)
+- [vscode extension](https://github.com/omniaura/agentflow-vscode)
+- [website](https://github.com/omniaura/agentflow.sh)
+
 <!--
 
 **Here are some ideas to get you started:**
