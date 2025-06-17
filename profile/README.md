@@ -4,7 +4,8 @@
 
 Ditto is our friendly LLM assistant
 
-Try now: [assistant.heyditto.ai](https://assistant.heyditto.ai/#/)
+Try now: [assistant.heyditto.ai](https://assistant.heyditto.ai/)
+Learn more: [heyditto.ai](https://heyditto.ai/)
 
 [Ditto Github Org](https://github.com/ditto-assistant/)
 
