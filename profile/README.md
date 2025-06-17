@@ -4,21 +4,13 @@
 
 Ditto is our friendly LLM assistant
 
-Try now: [assistant.heyditto.ai](https://assistant.heyditto.ai/)
-
-Learn more: [heyditto.ai](https://heyditto.ai/)
-
-[Ditto Github Org](https://github.com/ditto-assistant/)
+[Try Now](https://assistant.heyditto.ai/) | [Landing Page](https://heyditto.ai/) | [Github](https://github.com/ditto-assistant/)
 
 ### Agentflow
 
 Generate your LLM & RAG codebase
 
-Repositories:
-
-- [main](https://github.com/omniaura/agentflow)
-- [vscode extension](https://github.com/omniaura/agentflow-vscode)
-- [website](https://github.com/omniaura/agentflow.sh)
+[agentflow](https://github.com/omniaura/agentflow) | [vscode extension](https://github.com/omniaura/agentflow-vscode) | [website](https://github.com/omniaura/agentflow.sh)
 
 <!--
 
